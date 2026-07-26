@@ -4,6 +4,7 @@
 En esta carpeta se encuentra el programa desarrollado en lenguaje C para realizar operaciones con matrices 2x3.
 
 ## Código
+```c
 #include <stdio.h>
 //Funciones utilizadas
 void completarMatrices(int matrizA[2][3], int matrizB[2][3]);
@@ -117,4 +118,3 @@ void mostrarResultado(int resultado[2][3], char operacion[]){
         printf("\n");
     }
 }
-## Captura de ejecución
