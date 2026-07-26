@@ -1,13 +1,13 @@
 # Operaciones con matrices 2x3 en C, Java y Python
 
 ## Descripción
-Este proyecto implementa operaciones básicas con matrices bidimensionales de tamaño 2 filas por 3 columnas.  
+En este proyecto se desarrollan operaciones básicas con matrices bidimensionales de tamaño 2x3.  
 El programa permite realizar **suma, resta y multiplicación posición por posición** entre dos matrices enteras.
 
-La solución fue desarrollada en tres lenguajes de programación: **C, Java y Python**, utilizando modularidad, estructuras de datos estáticas y funciones para organizar mejor el código.
+La solución fue implementada en **C, Java y Python**, utilizando modularidad, estructuras de datos estáticas y funciones para mantener el código ordenado y fácil de entender.
 
 ## Objetivo
-Desarrollar un programa que permita trabajar con dos matrices de tamaño 2x3, aplicando operaciones matemáticas básicas y mostrando los resultados de forma ordenada en pantalla.
+Desarrollar un programa que permita ingresar dos matrices de 2 filas por 3 columnas y obtener como resultado sus operaciones básicas: suma, resta y multiplicación.
 
 ## Lenguajes utilizados
 - C
@@ -15,7 +15,7 @@ Desarrollar un programa que permita trabajar con dos matrices de tamaño 2x3, ap
 - Python
 
 ## Funciones empleadas
-El programa está organizado en las siguientes funciones:
+El programa está organizado con las siguientes funciones:
 
 - `main`
 - `completarMatrices`
