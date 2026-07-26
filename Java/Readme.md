@@ -101,3 +101,5 @@ public class hola {
 ```
 ## Captura de ejecución
 <img width="407" height="637" alt="Captura de pantalla 2026-07-26 100249" src="https://github.com/user-attachments/assets/6725819b-afb9-48b5-9f2d-04ce23123e1a" />
+
+[⬅️ Volver al README principal](../README.md)
