@@ -118,3 +118,8 @@ void mostrarResultado(int resultado[2][3], char operacion[]){
         printf("\n");
     }
 }
+```
+## Captura de ejecución
+<img width="472" height="647" alt="Captura de pantalla 2026-07-26 102809" src="https://github.com/user-attachments/assets/999b7527-3d71-40f4-b399-5c4aae5c5e04" />
+
+
