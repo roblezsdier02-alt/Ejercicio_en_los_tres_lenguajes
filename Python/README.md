@@ -74,3 +74,5 @@ main()
 ```
 ## Captura de ejecución
 <img width="422" height="627" alt="Captura de pantalla 2026-07-26 102518" src="https://github.com/user-attachments/assets/5f41cc62-a2ba-4a43-8cca-5979d78718f1" />
+
+[⬅️ Volver al README principal](../README.md)
