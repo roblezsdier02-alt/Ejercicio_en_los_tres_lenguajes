@@ -118,3 +118,4 @@ void mostrarResultado(int resultado[2][3], char operacion[]){
         printf("\n");
     }
 }
+```
