@@ -37,7 +37,7 @@ trabajo-matrices/
 ├── C/
 │   └── matrices.c
 ├── Java/
-│   └── hola.java
+│   └── matrices.java
 ├── Python/
 │   └── matrices.py
 └── README.md
