@@ -1,7 +1,7 @@
-# Operaciones con matrices 2x3 en C, Java y Python
+# Trabajo de operaciones con matrices 2x3 en C, Java y Python
 
 ## Descripción
-En este proyecto se desarrollan operaciones básicas con matrices bidimensionales de tamaño 2x3.  
+En este trabajo se desarrollan operaciones básicas con matrices bidimensionales de tamaño 2x3.  
 El programa permite realizar **suma, resta y multiplicación posición por posición** entre dos matrices enteras.
 
 La solución fue implementada en **C, Java y Python**, utilizando modularidad, estructuras de datos estáticas y funciones para mantener el código ordenado y fácil de entender.
@@ -15,7 +15,7 @@ Desarrollar un programa que permita ingresar dos matrices de 2 filas por 3 colum
 - Python
 
 ## Funciones empleadas
-El programa está organizado con las siguientes funciones:
+El trabajo está organizado con las siguientes funciones:
 
 - `main`
 - `completarMatrices`
@@ -31,9 +31,9 @@ El programa está organizado con las siguientes funciones:
 4. Se realiza la multiplicación de ambas matrices posición por posición.
 5. Se muestran los resultados en pantalla con un formato ordenado.
 
-## Estructura del proyecto
+## Estructura del archivo
 ```bash
-proyecto-matrices/
+trabajo-matrices/
 ├── C/
 │   └── matrices.c
 ├── Java/
