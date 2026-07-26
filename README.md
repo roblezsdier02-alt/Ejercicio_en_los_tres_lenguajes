@@ -35,9 +35,9 @@ El trabajo está organizado con las siguientes funciones:
 ```bash
 trabajo-matrices/
 ├── C/
-│   └── matrices.c
+│   └── README.md
 ├── Java/
-│   └── matrices.java
+│   └── README.md
 ├── Python/
-│   └── matrices.py
+│   └── README.md
 └── README.md
