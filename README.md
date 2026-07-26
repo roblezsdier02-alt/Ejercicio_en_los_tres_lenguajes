@@ -10,9 +10,11 @@ La solución fue implementada en **C, Java y Python**, utilizando modularidad, e
 Desarrollar un programa que permita ingresar dos matrices de 2 filas por 3 columnas y obtener como resultado sus operaciones básicas: suma, resta y multiplicación.
 
 ## Lenguajes utilizados
-- C
-- Java
-- Python
+Haz clic en cualquier lenguaje para ir directamente a su implementación:
+
+* [📁 Código en C](./C/)
+* [📁 Código en Java](./Java/)
+* [📁 Código en Python](./Python/)
 
 ## Funciones empleadas
 El trabajo está organizado con las siguientes funciones:
@@ -31,7 +33,7 @@ El trabajo está organizado con las siguientes funciones:
 4. Se realiza la multiplicación de ambas matrices posición por posición.
 5. Se muestran los resultados en pantalla con un formato ordenado.
 
-## Estructura del archivo
+## Estructura del proyecto
 ```bash
 trabajo-matrices/
 ├── C/
